@@ -2,8 +2,6 @@
 
 A modern, interactive loading page that combines blur effects with educational developer feedback. This project is part of the "50 Days, 50 Projects" challenge (Day 5).
 
-[Live Demo](https://jimmyu2foru18.github.io/50-Days-50-Projects-Day-5-Blurry-Loading/)
-
 ## 🚀 Features
 
 - Smooth blur-to-clear transition effect
@@ -106,11 +104,3 @@ const duration = 3000; // Adjust timing (in milliseconds)
 - Background image: [Unsplash](https://unsplash.com)
 - Scaling function: Adapted from StackOverflow
 - Font: Google Fonts (JetBrains Mono)
-
-## 📬 Contact
-
-GitHub: [@Jimmyu2foru18](https://github.com/Jimmyu2foru18)
-
-Project Link: [https://github.com/Jimmyu2foru18/50-Days-50-Projects-Day-5-Blurry-Loading](https://github.com/Jimmyu2foru18/50-Days-50-Projects-Day-5-Blurry-Loading)
-
----
